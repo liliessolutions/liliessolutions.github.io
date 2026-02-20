@@ -1,3 +1,26 @@
+<style>
+    body {
+        background-color: #121212; /* Match your homepage */
+        color: #d1d1d1; /* Soft light gray for easy reading */
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+        line-height: 1.6;
+        padding: 40px 20px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    h1, h2, h3 {
+        color: #ffffff;
+        margin-top: 30px;
+    }
+    a {
+        color: #00aaff;
+    }
+    hr {
+        border: 0;
+        border-top: 1px solid #333;
+        margin: 40px 0;
+    }
+</style>
 # Privacy Policy for Crazy Toad
 
 **Last updated:** January 22 - 2026
